@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding: 0px;
+    }
+    body{
+        width: 1000px;
+        height: fit-content;
+        margin: auto;
+        background-image: url(back1.jpg);
+    
+    }
+
+.header1 i{
+    float: left;
+
+}
+.header1 :right{
+float: right;
+}
+
+   .search{
+    width: 1000px;
+   }
